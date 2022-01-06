@@ -1,0 +1,25 @@
+/* This is an exampe of Comments in CSS*/
+
+body {
+  background-color: #AEFEFF;
+}
+
+hr {
+  background-color: #4FBDBA;
+  border-style: none;
+  border-color: #AEFEFF;
+  border-width: 3px;
+  border-top-style: dotted;
+}
+
+img {
+  border-radius: 3px;
+}
+
+h1 {
+  color: #35858B;
+}
+
+h3{
+  color: #072227;
+}
